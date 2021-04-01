@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @git-atoms
+- 👋 Hi, I’m @git-atoms (Tomasz Sliwinski)
 - 👀 I’m interested in to get to know something new every day
 - 🌱 I’m currently learning creating RWD websites, RegEx, MS SQL, PowerBI, Python...
-- 💞️ I’m looking to collaborate on someone seriously responsible in Poland, who wants to improve own skills together
-- 📫 How to reach me ... (I leave here contact to me soon)
+- 💞️ At this moment, I’m looking for collaboration with someone serious and responsible in Poland, who wants to improve own skills together. Perhaps in the future, we both will design and create own company (great things have small beginnings).
+- 📫 How to reach me ... (I leave here contact to me very soon)
 
 <!---
 git-atoms/git-atoms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
